@@ -5,7 +5,7 @@
 교보문고 링크: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262410&orderClick=LEA&Kc=  
 
 
-**차례**  
+#### **차례**  
 1장 개요와 설치  
 2장 기본 입출력                         < - 공부 중  
 3장 Numpy와 Matplolib  
