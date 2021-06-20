@@ -2,6 +2,9 @@
 
 ### **파이썬으로 만드는 OpenCV 프로젝트**을 읽으며 공부한 내용 정리한 내용입니다.
 
+교보문고 링크: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262410&orderClick=LEA&Kc=  
+
+
 **차례**  
 1장 개요와 설치  
 2장 기본 입출력                         < - 공부 중  
