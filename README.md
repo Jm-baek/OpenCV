@@ -1,6 +1,7 @@
 # OpenCV 공부
 
 ### **파이썬으로 만드는 OpenCV 프로젝트**을 읽으며 공부한 내용 정리한 내용입니다.
+- 보기 편하게 쥬피터 노트북으로 작성했습니다.
 
 ![image](https://user-images.githubusercontent.com/57121112/122675620-3200ee00-d215-11eb-8e3a-3d767fb3dc16.png)
 
